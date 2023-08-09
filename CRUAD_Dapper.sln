@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRUAD_Dapper", "CRUAD_Dapper\CRUAD_Dapper.csproj", "{D9FD83C4-CE7B-46DE-B90A-678602B5440E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Dapper\Repository.csproj", "{BB737183-988F-413F-B2A0-40ED8FAF2049}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9FD83C4-CE7B-46DE-B90A-678602B5440E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9FD83C4-CE7B-46DE-B90A-678602B5440E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9FD83C4-CE7B-46DE-B90A-678602B5440E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9FD83C4-CE7B-46DE-B90A-678602B5440E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB737183-988F-413F-B2A0-40ED8FAF2049}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB737183-988F-413F-B2A0-40ED8FAF2049}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB737183-988F-413F-B2A0-40ED8FAF2049}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB737183-988F-413F-B2A0-40ED8FAF2049}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB6675F-C4CE-435C-9C15-A0ABE2CD1112}
+	EndGlobalSection
+EndGlobal
